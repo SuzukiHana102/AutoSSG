@@ -1,0 +1,5 @@
+# just a config, resource is not collected
+'common_assert': './assert/common'
+'LR_assert': './assert/TC' # language related
+'resource_record_size': [ 1600,900 ] # not change if assert resource is not newly recorded
+'max_io_buffer': 64
